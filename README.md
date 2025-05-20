@@ -19,18 +19,20 @@ This is a basic Spring Boot application.
 ### Project Structure
 
     src/
- └── main/
-     ├── java/
-     │   └── com/example/app
-     └── resources/
-         └── application.properties
+     └── main/
+         ├── java/
+         │   └── com/example/app
+         └── resources/
+             └── application.properties
 
 ### Running the App
 
 1. Clone the repository:
+    ```bash
    git clone https://github.com/Alejandro2718/app_with_Spring_Boot.git
    cd app_with_Spring_Boot
 2. Build and run using Maven
+    ```bash
     mvn spring-boot:run
 3. App will start in:
     http://localhost:8080
