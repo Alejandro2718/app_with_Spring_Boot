@@ -36,3 +36,12 @@ This is a basic Spring Boot application.
     mvn spring-boot:run
 3. App will start in:
     http://localhost:8080
+
+
+### Print Screens
+1. Run App
+
+   <img src="printscreens/Screenshot 2025-05-21 095750.png" alt="run app" width="700"/>
+3. Display frontend
+   
+    <img src="printscreens/Screenshot 2025-05-21 100226.png" alt="run app" width="700"/>
