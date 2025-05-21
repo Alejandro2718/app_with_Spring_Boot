@@ -35,7 +35,7 @@ This is a basic Spring Boot application.
     ```bash
     mvn spring-boot:run
 3. App will start in:
-    http://localhost:8080
+   http://localhost:8080/greeting?name=Vistula
 
 
 ### Print Screens
